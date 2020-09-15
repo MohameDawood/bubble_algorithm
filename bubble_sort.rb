@@ -6,6 +6,7 @@ def bubble_sort!(arr = [])
     length = arr.length - 1 - i # how many times in the second iteration
     length.times do |j| # second iteration
       next unless arr[j] > arr[j + 1] # asking if the element is bigger than the next one
+
       arr[j], arr[j + 1] = arr[j + 1], arr[j] # swaping values
       is_sorted = false # rewrite the assumtion if it not sorted
     end
