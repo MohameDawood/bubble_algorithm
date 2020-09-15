@@ -1,7 +1,4 @@
 # In the name of Allah, the Entirely Merciful, the Especially Merciful
-
-
-
 def bubble_sort!(arr = [])
 
   (arr.length - 2).times do |i| # frist iteration
