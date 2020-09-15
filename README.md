@@ -18,17 +18,17 @@ To get a local copy up and running follow these simple steps:
 
 ## :bust_in_silhouette: Authors
 
-👤 **Kevin Cotrina**
-
-- Github: [@githubhandle](https://github.com/kcotrinam92)
-- Twitter: [@twitterhandle](https://twitter.com/KevinCot12)
-- Linkedin: [linkedin](https://www.linkedin.com/in/kevin-cotrina-6208b7149/)
-
 👤 **Mohamed Dawood**
 
 - Github: [@githubhandle](https://github.com/MohameDawood/)
 - Twitter: [@twitterhandle](https://twitter.com/Mohamedawood8)
 - Linkedin: [linkedin](https://www.linkedin.com/in/mohamedawood/)
+
+👤 **Kevin Cotrina**
+
+- Github: [@githubhandle](https://github.com/kcotrinam92)
+- Twitter: [@twitterhandle](https://twitter.com/KevinCot12)
+- Linkedin: [linkedin](https://www.linkedin.com/in/kevin-cotrina-6208b7149/)
 
 ## 🤝 :raised_hand: :raised_hand: Contributions
 
