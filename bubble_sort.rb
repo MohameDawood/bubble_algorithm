@@ -40,7 +40,7 @@ end
 
 p bubble_sort!([10, 5, 20, 1001, 8, 3, 1, 9])
 
-result = bubble_sort_by(%w(\(hi hello hey h)) do |left, right|
+result = bubble_sort_by(%w[hi hello hey h]) do |left, right|
   left.length - right.length
 end
 
