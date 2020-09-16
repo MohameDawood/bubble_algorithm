@@ -35,11 +35,13 @@ def bubble_sort_by(array)
     swap_made = false unless num_swaps.positive?
     total_iterations += 1
   end
-  print array
+  array
 end
 
-# p bubble_sort!([10, 5, 20, 1001, 8, 3, 1, 9])
+p bubble_sort!([10, 5, 20, 1001, 8, 3, 1, 9])
 
-# bubble_sort_by(["hi","hello","hey", "h"]) do |left,right|
-#     left.length - right.length
-# end
+result = bubble_sort_by(%w(\(hi hello hey h)) do |left, right|
+  left.length - right.length
+end
+
+p result
